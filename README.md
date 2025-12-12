@@ -13,9 +13,7 @@ This project showcases how to deploy a static website using:
 - **IAM User Permissions**
 - **Bucket Policy for Public Access**
 - **Website Endpoint for Browser Access**
-- **Optional: CloudFront CDN with HTTPS**
 
-This project is ideal for cloud portfolios, internships, and DevOps.
 
 ---
 
@@ -41,7 +39,6 @@ Local Machine → S3 Bucket → Public Website Endpoint
 
 - **Amazon S3**
 - **AWS IAM**
-- **AWS CloudFront** (optional)
 - **HTML, CSS**
   
 
