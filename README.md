@@ -126,8 +126,8 @@ http://website-hosting-2022.s3-website-us-east-1.amazonaws.com
 ---
 
 # 6 Conclusion 
- This project successfully demonstrates how to host a complete static website using **Amazon S3**, following cloud industry best practices.  
- By completing this project, you now have hands-on experience with:
+ This project successfully demonstrates how to host a complete static website using **Amazon S3**, 
+By completing this project, you now have hands-on experience with:
  - Cloud deployment  
 - Static web hosting  
 - AWS IAM & S3 permissions  
