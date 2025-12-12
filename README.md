@@ -107,7 +107,6 @@ Paste this policy (replace bucket name):
   ]
 }
 ```
-
 <img width="1903" height="828" alt="image" src="https://github.com/user-attachments/assets/43f4ba13-6185-4682-a12b-925bb4b1ecff" />
 
 ---
