@@ -35,7 +35,7 @@ Local Machine → S3 Bucket → Public Website Endpoint
 
 ---
 
-##  Technologies Used
+##  Services Used
 
 - **Amazon S3**
 - **AWS IAM**
